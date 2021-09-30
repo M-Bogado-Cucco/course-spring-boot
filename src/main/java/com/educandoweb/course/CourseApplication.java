@@ -1,7 +1,7 @@
 package com.educandoweb.course;
 
 /*Antes de rodar o projeto, ir no terminal e digitar: sudo systemctl stop tomcat9, 
-pois a máquina inicia com o tomcat ligado e isso impede o springboot de acessar a porta*/
+pois a máquina inicia com o tomcat ligado e isso impede o springboot de acessar a porta 8080*/
 
 
 import org.springframework.boot.SpringApplication;
